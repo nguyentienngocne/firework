@@ -133,7 +133,3 @@ function Run() {
     }
     requestAnimationFrame(Run);
 }
-
-let audio = document.getElementById("myAudio");
-audio.play();
-audio.loop = true;
