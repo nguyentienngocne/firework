@@ -16,14 +16,3 @@ canvas {
     height: 100%;
     z-index: -1;
 }
-
-#myAudio::-webkit-media-controls-panel {
-    display: none !important;
-    -webkit-appearance: none;
-}
-
-#myAudio {
-    width: 0;
-    height: 0;
-    overflow: hidden;
-}
