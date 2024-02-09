@@ -133,3 +133,7 @@ function Run() {
     }
     requestAnimationFrame(Run);
 }
+
+window.addEventListener("click", () => {
+    document.getElementById("song").play();
+});
