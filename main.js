@@ -155,6 +155,6 @@ function slowDisplay(text, delay) {
 }
 
 // Tin nhắn chúc mừng năm mới
-let newYearMessage = `Chúc mừng năm mới! Xin chúc bạn một năm mới tràn đầy hạnh phúc và thành công!`;
+let newYearMessage = `Chúc mừng năm mới! Chúc bạn Quỳnh Anh luôn thật xinh đẹp và gặp nhiều may mắn hơn trong năm mới ạ.`;
 let delay = 100; // Độ trễ (ms) giữa các ký tự
 slowDisplay(newYearMessage, delay);
